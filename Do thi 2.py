@@ -27,3 +27,4 @@ ax.set_title("Đồ thị phương trình bậc 2 và bậc 1")
 #8
 ax.legend()
 plt.show()
+#hjc

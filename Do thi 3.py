@@ -30,3 +30,4 @@ ax2.set_ylabel("Trục tung - y")
 ax2.legend()
 #6
 plt.show()
+#huhu

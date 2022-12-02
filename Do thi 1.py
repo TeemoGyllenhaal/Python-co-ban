@@ -1,4 +1,4 @@
-
+#hjhj
 def ham_bac_2(a, b, c, x):
     f = a*x**2 + b*x + c
     return f
